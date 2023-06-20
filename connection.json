@@ -1,0 +1,9 @@
+{
+  "account": "pi03835.us-east-2.aws",
+  "user": "saakethch",
+  "password": "Saaketh12#",
+  "role": "ACCOUNTADMIN",
+  "warehouse": "COMPUTE_WH",
+  "database": "ROI",
+  "schema": "PUBLIC"
+}
