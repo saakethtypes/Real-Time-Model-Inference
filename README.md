@@ -1,7 +1,8 @@
 # Real-Time-Model-Inference
 
 This project is focused on training a Linear Regression model to predict future Return On Investment (ROI) for various advertising spend budgets across search, video, social media, and email channels. 
-Tech Stack - 
+
+Tech stack includes - 
 * Streamlit
 * Snowpark
 * Plotly
