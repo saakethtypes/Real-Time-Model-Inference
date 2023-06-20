@@ -16,5 +16,4 @@ Tech stack includes -
 * Streamlit web application that uses the Scalar UDF for real-time inference on new data points based on user input
 * Cohort Analysis on sales data for month on month sales w.r.t. unique users
 
-https://user-images.githubusercontent.com/1723932/175127637-9149b9f3-e12a-4acd-a271-4650c47d8e34.mp4
-
+![Output](https://github.com/saakethtypes/Real-Time-Model-Inference/assets/47172497/150ab681-ba89-4025-ba4b-2ecd85625c30)
