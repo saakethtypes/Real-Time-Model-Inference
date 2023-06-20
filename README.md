@@ -1,7 +1,13 @@
-## Real-Time-Model-Inference
+# Real-Time-Model-Inference
 
 This project is focused on training a Linear Regression model to predict future Return On Investment (ROI) for various advertising spend budgets across search, video, social media, and email channels. 
-# Advertising Spend and ROI Prediction
+Tech Stack - 
+* Streamlit
+* Snowpark
+* Plotly
+* Tensorflow
+  
+## Advertising Spend and ROI Prediction
 
 * ML LR model training code on Snowflake using Python Stored Procedure
 * Scalar and Vectorized Python User-Defined Functions (UDFs) for inference
