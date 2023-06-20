@@ -14,6 +14,7 @@ Tech stack includes -
 * Scalar and Vectorized Python User-Defined Functions (UDFs) for inference
 * Snowflake Task to automate (re)training of the model
 * Streamlit web application that uses the Scalar UDF for real-time inference on new data points based on user input
+* Cohort Analysis on sales data for month on month sales w.r.t. unique users
 
 https://user-images.githubusercontent.com/1723932/175127637-9149b9f3-e12a-4acd-a271-4650c47d8e34.mp4
 
